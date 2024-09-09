@@ -1,0 +1,5 @@
+python == 3.11.9
+laspy == 2.5.4
+gdal == 3.6.2
+scikit-lear == 1.5.1
+cloth-simulation-filter == 1.1.5
